@@ -1,0 +1,19 @@
+{
+"Student":{
+	"First Name": "Taras",
+	"Surname": "Bandura",
+	"Age": 30,
+	"Residential address": {
+		"country": "Ukraine",
+		"city": "Kyiv",
+		"Street": "M.Lysenka",
+		"House number": 11,
+		"zip": "51900",
+		"postal": true
+		},
+	"Married": false,
+	"Children": null,
+	"Friends": ["John", "Den", "Philip"]
+	}
+
+}

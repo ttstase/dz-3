@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student citizenship="Ukrainian">
+	<firstName>Taras</firstName>
+	<surname>Bandura</surname>
+	<age>30</age>
+	
+	<residentialAddress>
+		<country>Ukraine</country>
+		<city>Kyiv</city>
+		<street>M.Lysenka</street>
+		<houseNumber>11</houseNumber>
+		<zip>51900</zip>
+		<postal>true</postal>
+	</residentialAddress>
+	<married>false</married>
+	<children/>
+	<friends>John</friends>
+	<friends>Den</friends>
+	<friends>Philip</friends>
+</student>

@@ -1,0 +1,35 @@
+student:
+    firstName: Taras
+    surname: Bandura
+    age: 30
+    adress:
+        residentialAddress: 
+            country: Ukraine
+            city: Kyiv
+            street: M.Lysenka
+            houseNumber: 11
+            zip: 51900
+            postal: false
+        mailing address: 
+            country: Ukraine
+            city: Dnepr
+            street: T. Shevchenka
+            houseNumber: 12
+            zip: 51902
+            postal: true
+    married: false
+    children: null
+    friends: "John \"Den \"Philip"
+    colleagues: [Mary, Alex]
+    grandparents: 
+        - Alina
+        - Vasyl
+    faculties:
+        humanities: |
+            artes liberales
+            greek philology
+            Culturology
+            Sociology
+        it: >
+            It is an interdisciplinary 
+            study with a practical profile
