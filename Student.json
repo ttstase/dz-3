@@ -1,19 +1,19 @@
 {
-"Student":{
-	"First Name": "Taras",
-	"Surname": "Bandura",
-	"Age": 30,
-	"Residential address": {
+"student":{
+	"firstName": "Taras",
+	"surname": "Bandura",
+	"age": 30,
+	"residentialAddress": {
 		"country": "Ukraine",
 		"city": "Kyiv",
-		"Street": "M.Lysenka",
-		"House number": 11,
+		"street": "M.Lysenka",
+		"houseNumber": 11,
 		"zip": "51900",
 		"postal": true
 		},
-	"Married": false,
-	"Children": null,
-	"Friends": ["John", "Den", "Philip"]
+	"married": false,
+	"children": null,
+	"friends": ["John", "Den", "Philip"]
 	}
 
 }
